@@ -14,7 +14,7 @@
       "password": "112233445566",
       "pin": "190203",
       "norek": "8672300132",
-      "saldo": 31000
+      "saldo": 21000
     }
   ],
   "transactions": [
@@ -62,6 +62,15 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-09-17T13:36:14.775Z"
+    },
+    {
+      "id": "TRX1758117210164",
+      "from": "raam",
+      "to": "MERCHANT_DANZZ_STORE",
+      "amount": 10000,
+      "type": "payment",
+      "details": "DANZZ STORE",
+      "timestamp": "2025-09-17T13:53:30.164Z"
     }
   ]
 }
