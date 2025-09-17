@@ -7,7 +7,15 @@
       "pin": "190204",
       "norek": "8798807536",
       "saldo": 90000
-    }    
+    },
+    {
+      "name": "MUHAMAD IKRAAM MAULANA",
+      "username": "raam",
+      "password": "112233445566",
+      "pin": "190203",
+      "norek": "8672300132",
+      "saldo": 50000
+    }
   ],
   "transactions": [
     {
