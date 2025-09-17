@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 89800
+      "saldo": 108800
     },
     {
       "name": "MUHAMAD IKRAAM MAULANA",
@@ -14,7 +14,7 @@
       "password": "112233445566",
       "pin": "190203",
       "norek": "8672300132",
-      "saldo": 50000
+      "saldo": 31000
     }
   ],
   "transactions": [
@@ -53,6 +53,15 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-09-17T13:23:28.256Z"
+    },
+    {
+      "id": "TRX1758116174775",
+      "from": "raam",
+      "to": "GUSTI",
+      "amount": 19000,
+      "type": "transfer",
+      "details": "",
+      "timestamp": "2025-09-17T13:36:14.775Z"
     }
   ]
 }
