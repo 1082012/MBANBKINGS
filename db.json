@@ -2,13 +2,12 @@
   "users": [
     {
       "name": "GUSTI FAIZ",
-      "username": "gusti",
+      "username": "GUSTI",
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
       "saldo": 90000
-    }
-    
+    }    
   ],
   "transactions": [
     {
