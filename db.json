@@ -6,9 +6,18 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 100000
-      
+      "saldo": 90000
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "id": "TRX1758111931376",
+      "from": "gusti",
+      "to": "MERCHANT_DANZZ_STORE",
+      "amount": 10000,
+      "type": "payment",
+      "details": "DANZZ STORE",
+      "timestamp": "2025-09-17T12:25:31.376Z"
+    }
+  ]
 }
