@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 108800
+      "saldo": 100800
     },
     {
       "name": "MUHAMAD IKRAAM MAULANA",
@@ -80,6 +80,15 @@
       "type": "payment",
       "details": "DANZZ STORE",
       "timestamp": "2025-09-17T13:58:02.995Z"
+    },
+    {
+      "id": "TRX1758154732109",
+      "from": "GUSTI",
+      "to": "MERCHANT_GUSTZY_STORE",
+      "amount": 8000,
+      "type": "payment",
+      "details": "GUSTZY STORE",
+      "timestamp": "2025-09-18T00:18:52.109Z"
     }
   ]
 }
