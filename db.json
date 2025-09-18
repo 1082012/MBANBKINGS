@@ -6,7 +6,8 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 1009000
+      "saldo": 1009000,
+      "pinAttempts": 1
     },
     {
       "name": "MUHAMAD IKRAAM MAULANA",
