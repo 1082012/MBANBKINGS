@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 1001999000,
+      "saldo": 1001899000,
       "pinAttempts": 0
     },
     {
@@ -15,7 +15,7 @@
       "password": "112233445566",
       "pin": "190203",
       "norek": "8672300132",
-      "saldo": 100000,
+      "saldo": 200000,
       "pinAttempts": 0
     }
   ],
@@ -172,6 +172,15 @@
       "type": "payment",
       "details": "GUSTZY STORE",
       "timestamp": "2025-09-22T17:22:50.169Z"
+    },
+    {
+      "id": "TRX1758561812491",
+      "from": "GUSTI",
+      "to": "raam",
+      "amount": 100000,
+      "type": "transfer",
+      "details": "",
+      "timestamp": "2025-09-22T17:23:32.492Z"
     }
   ]
 }
