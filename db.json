@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8798807536",
-      "saldo": 1002000000,
+      "saldo": 1001999000,
       "pinAttempts": 0
     },
     {
@@ -163,6 +163,15 @@
       "type": "topup",
       "details": "Top Up Saldo",
       "timestamp": "2025-09-18T14:59:47.429Z"
+    },
+    {
+      "id": "TRX1758561770167",
+      "from": "GUSTI",
+      "to": "MERCHANT_GUSTZY_STORE",
+      "amount": 1000,
+      "type": "payment",
+      "details": "GUSTZY STORE",
+      "timestamp": "2025-09-22T17:22:50.169Z"
     }
   ]
 }
