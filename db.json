@@ -31,7 +31,7 @@
       "password": "king123",
       "pin": "112233",
       "norek": "8171551676",
-      "saldo": 0,
+      "saldo": 500000,
       "beneficiaries": []
     }
   ],
@@ -233,6 +233,15 @@
       "type": "payment",
       "details": "RAFA STORE OK387673",
       "timestamp": "2025-09-23T15:10:38.057Z"
+    },
+    {
+      "id": "ADM_1758640424022",
+      "from": "ADMIN",
+      "to": "shadow",
+      "amount": 500000,
+      "type": "admin_credit",
+      "details": "Dari Gusti",
+      "timestamp": "2025-09-23T15:13:44.022Z"
     }
   ]
 }
