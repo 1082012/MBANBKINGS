@@ -8,7 +8,13 @@
       "norek": "8798807536",
       "saldo": 2001889000,
       "pinAttempts": 1,
-      "suspendedUntil": null
+      "suspendedUntil": null,
+      "beneficiaries": [
+        {
+          "name": "MUHAMAD IKRAAM MAULANA",
+          "norek": "8672300132"
+        }
+      ]
     },
     {
       "name": "MUHAMAD IKRAAM MAULANA",
