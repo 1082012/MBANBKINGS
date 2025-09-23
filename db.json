@@ -24,6 +24,15 @@
       "norek": "8672300132",
       "saldo": 220000,
       "pinAttempts": 0
+    },
+    {
+      "name": "Rafz shadow",
+      "username": "shadow",
+      "password": "king123",
+      "pin": "112233",
+      "norek": "8171551676",
+      "saldo": 50000,
+      "beneficiaries": []
     }
   ],
   "transactions": [
