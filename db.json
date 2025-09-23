@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "100812",
       "norek": "8798807536",
-      "saldo": 1001889000,
+      "saldo": 2001889000,
       "pinAttempts": 1,
       "suspendedUntil": null
     },
@@ -191,6 +191,15 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-09-22T17:24:29.493Z"
+    },
+    {
+      "id": "ADM_1758621133633",
+      "from": "ADMIN",
+      "to": "GUSTI",
+      "amount": 1000000000,
+      "type": "admin_credit",
+      "details": "Dari Gusti",
+      "timestamp": "2025-09-23T09:52:13.633Z"
     }
   ]
 }
