@@ -40,7 +40,7 @@
       "password": "faqih123",
       "pin": "258025",
       "norek": "8687608033",
-      "saldo": 1050000,
+      "saldo": 1001050000,
       "beneficiaries": []
     }
   ],
@@ -260,6 +260,15 @@
       "type": "admin_credit",
       "details": "dari gusti",
       "timestamp": "2025-09-23T16:16:18.753Z"
+    },
+    {
+      "id": "ADM_1758644207978",
+      "from": "ADMIN",
+      "to": "paqyu",
+      "amount": 1000000000,
+      "type": "admin_credit",
+      "details": "pp",
+      "timestamp": "2025-09-23T16:16:47.978Z"
     }
   ]
 }
