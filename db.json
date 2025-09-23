@@ -31,7 +31,7 @@
       "password": "king123",
       "pin": "112233",
       "norek": "8171551676",
-      "saldo": 50000,
+      "saldo": 0,
       "beneficiaries": []
     }
   ],
@@ -224,6 +224,15 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-09-23T14:53:56.847Z"
+    },
+    {
+      "id": "TRX1758640238057",
+      "from": "shadow",
+      "to": "MERCHANT_RAFA_STORE_OK387673",
+      "amount": 50000,
+      "type": "payment",
+      "details": "RAFA STORE OK387673",
+      "timestamp": "2025-09-23T15:10:38.057Z"
     }
   ]
 }
