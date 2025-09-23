@@ -40,7 +40,7 @@
       "password": "faqih123",
       "pin": "258025",
       "norek": "8687608033",
-      "saldo": 1001100000,
+      "saldo": 1001050000,
       "beneficiaries": []
     }
   ],
@@ -278,6 +278,15 @@
       "type": "topup",
       "details": "Top Up Saldo",
       "timestamp": "2025-09-23T16:17:42.124Z"
+    },
+    {
+      "id": "ADM_1758644393480",
+      "from": "ADMIN",
+      "to": "paqyu",
+      "amount": 50000,
+      "type": "admin_debit",
+      "details": "Tarik Sis",
+      "timestamp": "2025-09-23T16:19:53.480Z"
     }
   ]
 }
