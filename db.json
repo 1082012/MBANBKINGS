@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "100812",
       "norek": "8798807536",
-      "saldo": 2001889000,
+      "saldo": 2001879000,
       "pinAttempts": 1,
       "suspendedUntil": null,
       "beneficiaries": [
@@ -22,7 +22,7 @@
       "password": "112233445566",
       "pin": "190203",
       "norek": "8672300132",
-      "saldo": 210000,
+      "saldo": 220000,
       "pinAttempts": 0
     }
   ],
@@ -206,6 +206,15 @@
       "type": "admin_credit",
       "details": "Dari Gusti",
       "timestamp": "2025-09-23T09:52:13.633Z"
+    },
+    {
+      "id": "TRX1758639236844",
+      "from": "GUSTI",
+      "to": "raam",
+      "amount": 10000,
+      "type": "transfer",
+      "details": "",
+      "timestamp": "2025-09-23T14:53:56.847Z"
     }
   ]
 }
