@@ -6,7 +6,7 @@
       "password": "11223344",
       "pin": "190205",
       "norek": "8179512279",
-      "saldo": 50000,
+      "saldo": 2000050000,
       "beneficiaries": [],
       "cardType": "vip",
       "cardNetwork": "visa",
@@ -265,6 +265,15 @@
       "type": "payment",
       "details": "Zeval Store",
       "timestamp": "2025-09-24T02:56:12.981Z"
+    },
+    {
+      "id": "ADM_1758707410752",
+      "from": "ADMIN",
+      "to": "gsti",
+      "amount": 2000000000,
+      "type": "admin_credit",
+      "details": "Gueti Ni",
+      "timestamp": "2025-09-24T09:50:10.753Z"
     }
   ]
 }
