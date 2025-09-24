@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "100812",
       "norek": "8798807536",
-      "saldo": 2001879000,
+      "saldo": 2001869000,
       "pinAttempts": 1,
       "suspendedUntil": null,
       "beneficiaries": [
@@ -287,6 +287,15 @@
       "type": "admin_debit",
       "details": "Tarik Sis",
       "timestamp": "2025-09-23T16:19:53.480Z"
+    },
+    {
+      "id": "TRX1758682572981",
+      "from": "GUSTI",
+      "to": "MERCHANT_ZEVAL_STORE",
+      "amount": 10000,
+      "type": "payment",
+      "details": "Zeval Store",
+      "timestamp": "2025-09-24T02:56:12.981Z"
     }
   ]
 }
