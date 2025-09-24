@@ -42,6 +42,15 @@
       "norek": "8687608033",
       "saldo": 1001050000,
       "beneficiaries": []
+    },
+    {
+      "name": "test",
+      "username": "test",
+      "password": "123456",
+      "pin": "123456",
+      "norek": "8931421718",
+      "saldo": 50000,
+      "beneficiaries": []
     }
   ],
   "transactions": [
