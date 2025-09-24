@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "name": "FAQIH",
-      "username": "paqyu",
-      "password": "faqih123",
-      "pin": "258025",
-      "norek": "8687608033",
-      "saldo": 1001050000,
-      "beneficiaries": []
-    },
-    {
       "name": "test",
       "username": "test",
       "password": "123456",
