@@ -1,22 +1,6 @@
 {
   "users": [
     {
-      "name": "GUSTI FAIZ",
-      "username": "GUSTI",
-      "password": "112233",
-      "pin": "100812",
-      "norek": "8798807536",
-      "saldo": 2001869000,
-      "pinAttempts": 1,
-      "suspendedUntil": null,
-      "beneficiaries": [
-        {
-          "name": "MUHAMAD IKRAAM MAULANA",
-          "norek": "8672300132"
-        }
-      ]
-    },
-    {
       "name": "MUHAMAD IKRAAM MAULANA",
       "username": "raam",
       "password": "112233445566",
