@@ -11,6 +11,15 @@
       "cardType": "vip",
       "cardNetwork": "visa",
       "cardNumber": "4597 4284 2136 7329"
+    },
+    {
+      "name": "shadow",
+      "username": "shadow",
+      "password": "shadow",
+      "pin": "112233",
+      "norek": "8193526085",
+      "saldo": 50000,
+      "beneficiaries": []
     }
   ],
   "transactions": [
