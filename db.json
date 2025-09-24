@@ -51,6 +51,18 @@
       "norek": "8931421718",
       "saldo": 50000,
       "beneficiaries": []
+    },
+    {
+      "name": "Gusti Faiz",
+      "username": "gsti",
+      "password": "11223344",
+      "pin": "190205",
+      "norek": "8179512279",
+      "saldo": 50000,
+      "beneficiaries": [],
+      "cardType": "vip",
+      "cardNetwork": "visa",
+      "cardNumber": "4597 4284 2136 7329"
     }
   ],
   "transactions": [
