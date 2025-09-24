@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "name": "MUHAMAD IKRAAM MAULANA",
-      "username": "raam",
-      "password": "112233445566",
-      "pin": "190203",
-      "norek": "8672300132",
-      "saldo": 220000,
-      "pinAttempts": 0
-    },
-    {
       "name": "Rafz shadow",
       "username": "shadow",
       "password": "king123",
