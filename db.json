@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "name": "Rafz shadow",
-      "username": "shadow",
-      "password": "king123",
-      "pin": "112233",
-      "norek": "8171551676",
-      "saldo": 500000,
-      "beneficiaries": []
-    },
-    {
       "name": "FAQIH",
       "username": "paqyu",
       "password": "faqih123",
