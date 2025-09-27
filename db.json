@@ -27,7 +27,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8275111153",
-      "saldoRp": 0,
+      "saldoRp": 100000,
       "saldoAura": 100,
       "beneficiaries": [],
       "cardType": "gold",
@@ -296,6 +296,15 @@
       "type": "admin_credit",
       "details": "Gueti Ni",
       "timestamp": "2025-09-24T09:50:10.753Z"
+    },
+    {
+      "id": "TRX1758975108082",
+      "from": "TOP_UP_SYSTEM",
+      "to": "gustif",
+      "amount": 100000,
+      "type": "topup",
+      "details": "Top Up via BCA by Gusti",
+      "timestamp": "2025-09-27T12:11:48.082Z"
     }
   ],
   "topUpRequests": [
@@ -307,7 +316,7 @@
       "senderName": "Gusti",
       "provider": "BCA",
       "timestamp": "2025-09-27T12:07:46.624Z",
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
