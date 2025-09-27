@@ -21,6 +21,21 @@
       "cardType": "gold",
       "cardNetwork": "visa",
       "cardNumber": "4658 4353 2423 1394"
+    },
+    {
+      "name": "Faqih",
+      "username": "faqih",
+      "password": "112233",
+      "pin": "111222",
+      "norek": "8718813468",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "pinAttempts": 0,
+      "suspendedUntil": null,
+      "beneficiaries": [],
+      "cardType": "platinum",
+      "cardNetwork": "mastercard",
+      "cardNumber": "5905 9328 0641 9965"
     }
   ],
   "transactions": [
