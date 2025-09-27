@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8275111153",
-      "saldoRp": 73500,
+      "saldoRp": 13500,
       "saldoAura": 100,
       "beneficiaries": [],
       "cardType": "gold",
@@ -335,6 +335,15 @@
       "type": "topup",
       "details": "Top Up via DANA by DNID",
       "timestamp": "2025-09-27T19:28:10.682Z"
+    },
+    {
+      "id": "ADM_1759001435560",
+      "from": "ADMIN",
+      "to": "gustif",
+      "amount": 60000,
+      "type": "admin_debit",
+      "details": "tai",
+      "timestamp": "2025-09-27T19:30:35.560Z"
     }
   ],
   "topUpRequests": [
