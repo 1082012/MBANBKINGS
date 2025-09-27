@@ -15,7 +15,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8275111153",
-      "saldoRp": 100000,
+      "saldoRp": 83500,
       "saldoAura": 100,
       "beneficiaries": [],
       "cardType": "gold",
@@ -293,6 +293,15 @@
       "type": "topup",
       "details": "Top Up via BCA by Gusti",
       "timestamp": "2025-09-27T12:11:48.082Z"
+    },
+    {
+      "id": "TRX1758993868829",
+      "from": "gustif",
+      "to": "INTERBANK_SYSTEM",
+      "amount": 10000,
+      "type": "transfer_interbank",
+      "details": "Transfer ke DANA - Gusti",
+      "timestamp": "2025-09-27T17:24:28.829Z"
     }
   ],
   "topUpRequests": [
@@ -318,7 +327,7 @@
       "amount": 10000,
       "adminFee": 6500,
       "timestamp": "2025-09-27T17:24:03.465Z",
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
