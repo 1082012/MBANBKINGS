@@ -1,18 +1,6 @@
 {
   "users": [
     {
-      "name": "Gusti Faiz",
-      "username": "gsti",
-      "password": "11223344",
-      "pin": "190205",
-      "norek": "8179512279",
-      "saldo": 2000050000,
-      "beneficiaries": [],
-      "cardType": "vip",
-      "cardNetwork": "visa",
-      "cardNumber": "4597 4284 2136 7329"
-    },
-    {
       "name": "shadow",
       "username": "shadow",
       "password": "shadow",
@@ -317,20 +305,6 @@
       "provider": "BCA",
       "timestamp": "2025-09-27T12:07:46.624Z",
       "status": "approved"
-    }
-  ],
-  "interbankTransfers": [
-    {
-      "id": "IBT1758993393842",
-      "fromUsername": "gustif",
-      "fromNorek": "8275111153",
-      "toBank": "BCA",
-      "toAccountNumber": "2451319894",
-      "toAccountName": "Gusti",
-      "amount": 50000,
-      "adminFee": 6500,
-      "timestamp": "2025-09-27T17:16:33.842Z",
-      "status": "pending"
     }
   ]
 }
