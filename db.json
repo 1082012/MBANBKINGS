@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8290075865",
-      "saldoRp": 0,
+      "saldoRp": 8000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -16,7 +16,17 @@
       "cardNumber": "5874 9052 2355 8389"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "ADM_1759002645812",
+      "from": "ADMIN",
+      "to": "faqih",
+      "amount": 8000,
+      "type": "admin_credit",
+      "details": "Update",
+      "timestamp": "2025-09-27T19:50:45.812Z"
+    }
+  ],
   "topUpRequests": [],
   "interbankTransfers": []
 }
