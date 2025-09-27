@@ -19,7 +19,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8718813468",
-      "saldoRp": 0,
+      "saldoRp": 7000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -317,6 +317,15 @@
       "type": "payment",
       "details": "GUSTZY STORE",
       "timestamp": "2025-09-27T17:26:09.753Z"
+    },
+    {
+      "id": "ADM_1759001157542",
+      "from": "ADMIN",
+      "to": "faqih",
+      "amount": 7000,
+      "type": "admin_credit",
+      "details": "Uang_Adm",
+      "timestamp": "2025-09-27T19:25:57.543Z"
     }
   ],
   "topUpRequests": [
