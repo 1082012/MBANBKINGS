@@ -19,7 +19,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8718813468",
-      "saldoRp": 7000,
+      "saldoRp": 8000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -326,6 +326,15 @@
       "type": "admin_credit",
       "details": "Uang_Adm",
       "timestamp": "2025-09-27T19:25:57.543Z"
+    },
+    {
+      "id": "TRX1759001290682",
+      "from": "TOP_UP_SYSTEM",
+      "to": "faqih",
+      "amount": 1000,
+      "type": "topup",
+      "details": "Top Up via DANA by DNID",
+      "timestamp": "2025-09-27T19:28:10.682Z"
     }
   ],
   "topUpRequests": [
@@ -347,7 +356,7 @@
       "senderName": "DNID",
       "provider": "DANA",
       "timestamp": "2025-09-27T19:27:25.957Z",
-      "status": "pending"
+      "status": "approved"
     }
   ],
   "interbankTransfers": [
