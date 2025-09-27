@@ -15,7 +15,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8275111153",
-      "saldoRp": 83500,
+      "saldoRp": 73500,
       "saldoAura": 100,
       "beneficiaries": [],
       "cardType": "gold",
@@ -302,6 +302,15 @@
       "type": "transfer_interbank",
       "details": "Transfer ke DANA - Gusti",
       "timestamp": "2025-09-27T17:24:28.829Z"
+    },
+    {
+      "id": "TRX1758993969753",
+      "from": "gustif",
+      "to": "MERCHANT_GUSTZY_STORE",
+      "amount": 10000,
+      "type": "payment",
+      "details": "GUSTZY STORE",
+      "timestamp": "2025-09-27T17:26:09.753Z"
     }
   ],
   "topUpRequests": [
