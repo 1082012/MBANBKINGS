@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "name": "shadow",
-      "username": "shadow",
-      "password": "shadow",
-      "pin": "112233",
-      "norek": "8193526085",
-      "saldo": 50000,
-      "beneficiaries": []
-    },
-    {
       "name": "Gusti",
       "username": "gustif",
       "password": "112233",
