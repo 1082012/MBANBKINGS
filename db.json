@@ -20,6 +20,19 @@
       "norek": "8193526085",
       "saldo": 50000,
       "beneficiaries": []
+    },
+    {
+      "name": "Gusti",
+      "username": "gustif",
+      "password": "112233",
+      "pin": "190204",
+      "norek": "8275111153",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "beneficiaries": [],
+      "cardType": "gold",
+      "cardNetwork": "visa",
+      "cardNumber": "4658 4353 2423 1394"
     }
   ],
   "transactions": [
@@ -284,5 +297,6 @@
       "details": "Gueti Ni",
       "timestamp": "2025-09-24T09:50:10.753Z"
     }
-  ]
+  ],
+  "topUpRequests": []
 }
