@@ -1,5 +1,21 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Faqih",
+      "username": "faqih",
+      "password": "112233",
+      "pin": "111222",
+      "norek": "8290075865",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "pinAttempts": 0,
+      "suspendedUntil": null,
+      "beneficiaries": [],
+      "cardType": "platinum",
+      "cardNetwork": "mastercard",
+      "cardNumber": "5874 9052 2355 8389"
+    }
+  ],
   "transactions": [],
   "topUpRequests": [],
   "interbankTransfers": []
