@@ -298,5 +298,16 @@
       "timestamp": "2025-09-24T09:50:10.753Z"
     }
   ],
-  "topUpRequests": []
+  "topUpRequests": [
+    {
+      "id": "TU1758974866624",
+      "username": "gustif",
+      "name": "Gusti",
+      "amount": 100000,
+      "senderName": "Gusti",
+      "provider": "BCA",
+      "timestamp": "2025-09-27T12:07:46.624Z",
+      "status": "pending"
+    }
+  ]
 }
