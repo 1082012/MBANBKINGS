@@ -21,7 +21,7 @@
       "password": "112233",
       "pin": "190203",
       "norek": "8770174030",
-      "saldoRp": 0,
+      "saldoRp": 6500,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -58,6 +58,15 @@
       "type": "admin_debit",
       "details": "SALAH_PENGISIAN",
       "timestamp": "2025-09-28T02:55:49.615Z"
+    },
+    {
+      "id": "ADM_1759028166144",
+      "from": "ADMIN",
+      "to": "m gusti faiz f",
+      "amount": 6500,
+      "type": "admin_credit",
+      "details": "UPDATE",
+      "timestamp": "2025-09-28T02:56:06.144Z"
     }
   ],
   "topUpRequests": [],
