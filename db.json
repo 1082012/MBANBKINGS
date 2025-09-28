@@ -9,7 +9,7 @@
       "saldoRp": 2000,
       "saldoAura": 100,
       "pinAttempts": 0,
-      "suspendedUntil": "9999-12-31T00:00:00.000Z",
+      "suspendedUntil": null,
       "beneficiaries": [],
       "cardType": "platinum",
       "cardNetwork": "mastercard",
