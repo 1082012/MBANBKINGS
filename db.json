@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8290075865",
-      "saldoRp": 8000,
+      "saldoRp": 9000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -21,7 +21,7 @@
       "password": "112233",
       "pin": "190203",
       "norek": "8770174030",
-      "saldoRp": 6500,
+      "saldoRp": 5500,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -67,6 +67,15 @@
       "type": "admin_credit",
       "details": "UPDATE",
       "timestamp": "2025-09-28T02:56:06.144Z"
+    },
+    {
+      "id": "TRX1759028329851",
+      "from": "m gusti faiz f",
+      "to": "faqih",
+      "amount": 1000,
+      "type": "transfer",
+      "details": "",
+      "timestamp": "2025-09-28T02:58:49.851Z"
     }
   ],
   "topUpRequests": [],
