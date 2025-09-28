@@ -88,5 +88,18 @@
     }
   ],
   "topUpRequests": [],
-  "interbankTransfers": []
+  "interbankTransfers": [
+    {
+      "id": "IBT1759028465384",
+      "fromUsername": "m gusti faiz f",
+      "fromNorek": "8770174030",
+      "toBank": "DANA",
+      "toAccountNumber": "081313876160",
+      "toAccountName": "DNID",
+      "amount": 10000,
+      "adminFee": 6500,
+      "timestamp": "2025-09-28T03:01:05.384Z",
+      "status": "pending"
+    }
+  ]
 }
