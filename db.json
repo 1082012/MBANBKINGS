@@ -29,6 +29,19 @@
       "cardType": "vip",
       "cardNetwork": "visa",
       "cardNumber": "4594 6128 3403 6857"
+    },
+    {
+      "name": "Pino Sinaga",
+      "username": "vinzz",
+      "password": "Pino123",
+      "pin": "969696",
+      "norek": "8336013044",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "beneficiaries": [],
+      "cardType": "blue",
+      "cardNetwork": "mastercard",
+      "cardNumber": "5044 7011 4210 2489"
     }
   ],
   "transactions": [
