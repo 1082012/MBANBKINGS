@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8290075865",
-      "saldoRp": 8000,
+      "saldoRp": 14500,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -40,6 +40,15 @@
       "type": "admin_credit",
       "details": "Update",
       "timestamp": "2025-09-27T19:50:45.812Z"
+    },
+    {
+      "id": "ADM_1759028115245",
+      "from": "ADMIN",
+      "to": "faqih",
+      "amount": 6500,
+      "type": "admin_credit",
+      "details": "UPDATE",
+      "timestamp": "2025-09-28T02:55:15.245Z"
     }
   ],
   "topUpRequests": [],
