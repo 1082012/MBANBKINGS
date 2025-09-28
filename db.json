@@ -42,6 +42,19 @@
       "cardType": "blue",
       "cardNetwork": "mastercard",
       "cardNumber": "5044 7011 4210 2489"
+    },
+    {
+      "name": "ASPA",
+      "username": "ass",
+      "password": "ASSTORE",
+      "pin": "000888",
+      "norek": "8373124780",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "beneficiaries": [],
+      "cardType": "blue",
+      "cardNetwork": "mastercard",
+      "cardNumber": "5626 3252 8735 8813"
     }
   ],
   "transactions": [
