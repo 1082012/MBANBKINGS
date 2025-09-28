@@ -173,6 +173,18 @@
       "adminFee": 1000,
       "timestamp": "2025-09-28T07:28:54.551Z",
       "status": "approved"
+    },
+    {
+      "id": "IBT1759066763815",
+      "fromUsername": "faqih",
+      "fromNorek": "8290075865",
+      "toBank": "DANA",
+      "toAccountNumber": "085135600304",
+      "toAccountName": "DNID",
+      "amount": 3000,
+      "adminFee": 1500,
+      "timestamp": "2025-09-28T13:39:23.815Z",
+      "status": "pending"
     }
   ]
 }
