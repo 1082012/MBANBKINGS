@@ -21,7 +21,7 @@
       "password": "112233",
       "pin": "190203",
       "norek": "8770174030",
-      "saldoRp": 25500,
+      "saldoRp": 9000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -85,6 +85,15 @@
       "type": "admin_credit",
       "details": "UP",
       "timestamp": "2025-09-28T02:59:58.346Z"
+    },
+    {
+      "id": "TRX1759028482148",
+      "from": "m gusti faiz f",
+      "to": "INTERBANK_SYSTEM",
+      "amount": 10000,
+      "type": "transfer_interbank",
+      "details": "Transfer ke DANA - DNID",
+      "timestamp": "2025-09-28T03:01:22.148Z"
     }
   ],
   "topUpRequests": [],
@@ -99,7 +108,7 @@
       "amount": 10000,
       "adminFee": 6500,
       "timestamp": "2025-09-28T03:01:05.384Z",
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
