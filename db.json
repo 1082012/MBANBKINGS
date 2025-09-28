@@ -6,7 +6,7 @@
       "password": "112233",
       "pin": "111222",
       "norek": "8290075865",
-      "saldoRp": 9000,
+      "saldoRp": 7000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": "9999-12-31T00:00:00.000Z",
@@ -94,6 +94,15 @@
       "type": "transfer_interbank",
       "details": "Transfer ke DANA - DNID",
       "timestamp": "2025-09-28T03:01:22.148Z"
+    },
+    {
+      "id": "TRX1759044289070",
+      "from": "faqih",
+      "to": "INTERBANK_SYSTEM",
+      "amount": 1000,
+      "type": "transfer_interbank",
+      "details": "Transfer ke DANA - DNID",
+      "timestamp": "2025-09-28T07:24:49.073Z"
     }
   ],
   "topUpRequests": [],
@@ -120,7 +129,7 @@
       "amount": 1000,
       "adminFee": 1000,
       "timestamp": "2025-09-28T07:22:58.195Z",
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
