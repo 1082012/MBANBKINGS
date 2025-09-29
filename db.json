@@ -62,7 +62,7 @@
       "password": "112233445566",
       "pin": "100812",
       "norek": "8912351589",
-      "saldoRp": 0,
+      "saldoRp": 1000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -171,6 +171,15 @@
       "type": "transfer_interbank",
       "details": "Transfer ke DANA - DNID",
       "timestamp": "2025-09-28T13:40:31.173Z"
+    },
+    {
+      "id": "ADM_1759133004512",
+      "from": "ADMIN",
+      "to": "rafli",
+      "amount": 1000,
+      "type": "admin_credit",
+      "details": "ADMIN",
+      "timestamp": "2025-09-29T08:03:24.512Z"
     }
   ],
   "topUpRequests": [],
