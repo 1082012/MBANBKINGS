@@ -55,6 +55,21 @@
       "cardType": "blue",
       "cardNetwork": "mastercard",
       "cardNumber": "5626 3252 8735 8813"
+    },
+    {
+      "name": "MUHAMAD RAFLI ANUGRAH",
+      "username": "rafli",
+      "password": "112233445566",
+      "pin": "100812",
+      "norek": "8912351589",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "pinAttempts": 0,
+      "suspendedUntil": null,
+      "beneficiaries": [],
+      "cardType": "gold",
+      "cardNetwork": "visa",
+      "cardNumber": "4109 9311 2907 0929"
     }
   ],
   "transactions": [
