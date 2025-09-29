@@ -62,7 +62,7 @@
       "password": "112233445566",
       "pin": "100812",
       "norek": "8912351589",
-      "saldoRp": 1000,
+      "saldoRp": 6000,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -198,6 +198,15 @@
       "type": "admin_debit",
       "details": "OUT",
       "timestamp": "2025-09-29T08:06:01.216Z"
+    },
+    {
+      "id": "ADM_1759133181312",
+      "from": "ADMIN",
+      "to": "rafli",
+      "amount": 5000,
+      "type": "admin_credit",
+      "details": "UP",
+      "timestamp": "2025-09-29T08:06:21.312Z"
     }
   ],
   "topUpRequests": [],
