@@ -62,7 +62,7 @@
       "password": "112233445566",
       "pin": "111222",
       "norek": "8912351589",
-      "saldoRp": 6000,
+      "saldoRp": 3500,
       "saldoAura": 100,
       "pinAttempts": 0,
       "suspendedUntil": null,
@@ -207,6 +207,15 @@
       "type": "admin_credit",
       "details": "UP",
       "timestamp": "2025-09-29T08:06:21.312Z"
+    },
+    {
+      "id": "TRX1759133318057",
+      "from": "rafli",
+      "to": "INTERBANK_SYSTEM",
+      "amount": 1000,
+      "type": "transfer_interbank",
+      "details": "Transfer ke DANA - QOMARIAH",
+      "timestamp": "2025-09-29T08:08:38.057Z"
     }
   ],
   "topUpRequests": [],
@@ -269,7 +278,7 @@
       "amount": 1000,
       "adminFee": 1500,
       "timestamp": "2025-09-29T08:08:25.913Z",
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
