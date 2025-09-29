@@ -258,6 +258,18 @@
       "adminFee": 1500,
       "timestamp": "2025-09-28T13:39:23.815Z",
       "status": "approved"
+    },
+    {
+      "id": "IBT1759133305913",
+      "fromUsername": "rafli",
+      "fromNorek": "8912351589",
+      "toBank": "DANA",
+      "toAccountNumber": "081313876160",
+      "toAccountName": "QOMARIAH",
+      "amount": 1000,
+      "adminFee": 1500,
+      "timestamp": "2025-09-29T08:08:25.913Z",
+      "status": "pending"
     }
   ]
 }
