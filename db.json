@@ -70,6 +70,19 @@
       "cardType": "gold",
       "cardNetwork": "visa",
       "cardNumber": "4109 9311 2907 0929"
+    },
+    {
+      "name": "Gusti New",
+      "username": "gustzy",
+      "password": "112233",
+      "pin": "190204",
+      "norek": "8137408550",
+      "saldoRp": 0,
+      "saldoAura": 100,
+      "beneficiaries": [],
+      "cardType": "vip",
+      "cardNetwork": "visa",
+      "cardNumber": "4555 4606 5078 6943"
     }
   ],
   "transactions": [
