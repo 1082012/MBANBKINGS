@@ -16,21 +16,6 @@
       "cardNumber": "5874 9052 2355 8389"
     },
     {
-      "name": "MUHAMAD GUSTI FAIZ FATURAHMAN",
-      "username": "m gusti faiz f",
-      "password": "112233",
-      "pin": "190204",
-      "norek": "8770174030",
-      "saldoRp": 9000,
-      "saldoAura": 100,
-      "pinAttempts": 0,
-      "suspendedUntil": null,
-      "beneficiaries": [],
-      "cardType": "vip",
-      "cardNetwork": "visa",
-      "cardNumber": "4594 6128 3403 6857"
-    },
-    {
       "name": "Pino Sinaga",
       "username": "vinzz",
       "password": "Pino123",
