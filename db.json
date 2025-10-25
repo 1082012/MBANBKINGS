@@ -77,7 +77,7 @@
       "password": "112233",
       "pin": "190204",
       "norek": "8137408550",
-      "saldoRp": 0,
+      "saldoRp": 100000,
       "saldoAura": 100,
       "beneficiaries": [],
       "cardType": "vip",
@@ -238,6 +238,15 @@
       "type": "admin_credit",
       "details": "blaa",
       "timestamp": "2025-09-29T09:38:52.287Z"
+    },
+    {
+      "id": "TRX1761381299024",
+      "from": "TOP_UP_SYSTEM",
+      "to": "gustzy",
+      "amount": 100000,
+      "type": "topup",
+      "details": "Top Up via BCA by M GUSTI FAIZ QQ",
+      "timestamp": "2025-10-25T08:34:59.024Z"
     }
   ],
   "topUpRequests": [
@@ -249,7 +258,7 @@
       "senderName": "M GUSTI FAIZ QQ",
       "provider": "BCA",
       "timestamp": "2025-10-25T08:34:41.217Z",
-      "status": "pending"
+      "status": "approved"
     }
   ],
   "interbankTransfers": [
