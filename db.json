@@ -240,7 +240,18 @@
       "timestamp": "2025-09-29T09:38:52.287Z"
     }
   ],
-  "topUpRequests": [],
+  "topUpRequests": [
+    {
+      "id": "TU1761381281217",
+      "username": "gustzy",
+      "name": "Gusti New",
+      "amount": 100000,
+      "senderName": "M GUSTI FAIZ QQ",
+      "provider": "BCA",
+      "timestamp": "2025-10-25T08:34:41.217Z",
+      "status": "pending"
+    }
+  ],
   "interbankTransfers": [
     {
       "id": "IBT1759028465384",
