@@ -75,7 +75,7 @@
       "password": "555555",
       "pin": "555555",
       "norek": "8745152682",
-      "saldo": 50000,
+      "saldo": 51000,
       "beneficiaries": [],
       "cardType": "vip",
       "cardNetwork": "visa",
@@ -253,6 +253,15 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-10-25T08:36:16.391Z"
+    },
+    {
+      "id": "TRX1767020571500",
+      "from": "TOP_UP_SYSTEM",
+      "to": "guzzzz",
+      "amount": 1000,
+      "type": "topup",
+      "details": "Top Up Saldo",
+      "timestamp": "2025-12-29T15:02:51.500Z"
     }
   ]
 }
