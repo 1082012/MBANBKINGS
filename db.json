@@ -75,7 +75,7 @@
       "password": "555555",
       "pin": "555555",
       "norek": "8745152682",
-      "saldo": 51000,
+      "saldo": 50000,
       "beneficiaries": [],
       "cardType": "vip",
       "cardNetwork": "visa",
@@ -262,6 +262,15 @@
       "type": "topup",
       "details": "Top Up Saldo",
       "timestamp": "2025-12-29T15:02:51.500Z"
+    },
+    {
+      "id": "TRX1767020612188",
+      "from": "guzzzz",
+      "to": "MERCHANT_MYTELKOMSEL_APPS",
+      "amount": 1000,
+      "type": "payment",
+      "details": "MyTelkomsel Apps",
+      "timestamp": "2025-12-29T15:03:32.188Z"
     }
   ]
 }
