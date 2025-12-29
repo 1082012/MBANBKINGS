@@ -68,6 +68,18 @@
       "cardType": "vip",
       "cardNetwork": "visa",
       "cardNumber": "4555 4606 5078 6943"
+    },
+    {
+      "name": "guz",
+      "username": "guzzzz",
+      "password": "555555",
+      "pin": "555555",
+      "norek": "8745152682",
+      "saldo": 50000,
+      "beneficiaries": [],
+      "cardType": "vip",
+      "cardNetwork": "visa",
+      "cardNumber": "4181 5998 4008 3235"
     }
   ],
   "transactions": [
@@ -241,80 +253,6 @@
       "type": "transfer",
       "details": "",
       "timestamp": "2025-10-25T08:36:16.391Z"
-    }
-  ],
-  "topUpRequests": [
-    {
-      "id": "TU1761381281217",
-      "username": "gustzy",
-      "name": "Gusti New",
-      "amount": 100000,
-      "senderName": "M GUSTI FAIZ QQ",
-      "provider": "BCA",
-      "timestamp": "2025-10-25T08:34:41.217Z",
-      "status": "approved"
-    }
-  ],
-  "interbankTransfers": [
-    {
-      "id": "IBT1759028465384",
-      "fromUsername": "m gusti faiz f",
-      "fromNorek": "8770174030",
-      "toBank": "DANA",
-      "toAccountNumber": "081313876160",
-      "toAccountName": "DNID",
-      "amount": 10000,
-      "adminFee": 6500,
-      "timestamp": "2025-09-28T03:01:05.384Z",
-      "status": "approved"
-    },
-    {
-      "id": "IBT1759044178191",
-      "fromUsername": "faqih",
-      "fromNorek": "8290075865",
-      "toBank": "DANA",
-      "toAccountNumber": "085135600304",
-      "toAccountName": "DNID",
-      "amount": 1000,
-      "adminFee": 1000,
-      "timestamp": "2025-09-28T07:22:58.195Z",
-      "status": "approved"
-    },
-    {
-      "id": "IBT1759044534551",
-      "fromUsername": "faqih",
-      "fromNorek": "8290075865",
-      "toBank": "DANA",
-      "toAccountNumber": "085135600304",
-      "toAccountName": "DNID",
-      "amount": 4000,
-      "adminFee": 1000,
-      "timestamp": "2025-09-28T07:28:54.551Z",
-      "status": "approved"
-    },
-    {
-      "id": "IBT1759066763815",
-      "fromUsername": "faqih",
-      "fromNorek": "8290075865",
-      "toBank": "DANA",
-      "toAccountNumber": "085135600304",
-      "toAccountName": "DNID",
-      "amount": 3000,
-      "adminFee": 1500,
-      "timestamp": "2025-09-28T13:39:23.815Z",
-      "status": "approved"
-    },
-    {
-      "id": "IBT1759133305913",
-      "fromUsername": "rafli",
-      "fromNorek": "8912351589",
-      "toBank": "DANA",
-      "toAccountNumber": "081313876160",
-      "toAccountName": "QOMARIAH",
-      "amount": 1000,
-      "adminFee": 1500,
-      "timestamp": "2025-09-29T08:08:25.913Z",
-      "status": "approved"
     }
   ]
 }
